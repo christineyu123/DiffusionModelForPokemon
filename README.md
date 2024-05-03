@@ -51,6 +51,14 @@ To fine-tune the model, use the following script:
 ```bash
 python pokemen_finetune_diffusion.py
 ```
+
+The generated images at the beginning:
+![b](beginning.png)
+The generated images during the fine-tuning process:
+![m](middle.png)
+The generated images at the end of the fine-tuning process:
+![m](middle.png)
+
 ## Demo
 
 To run the Gradio demo, use the following script:
