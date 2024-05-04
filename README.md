@@ -52,12 +52,15 @@ To fine-tune the model, use the following script:
 python pokemen_finetune_diffusion.py
 ```
 
-The generated images at the beginning:
+## Visualization
+The generated images at the beginning (you can still see human faces):
 ![b](beginning.png)
-The generated images during the fine-tuning process:
+The generated images during the fine-tuning process(human faces get blended with pokemon style):
 ![m](middle.png)
+
+## Final result
 The generated images at the end of the fine-tuning process:
-![m](middle.png)
+![m](end.png)
 
 ## Demo
 
