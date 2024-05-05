@@ -36,7 +36,6 @@ chmod 600 ~/.kaggle/kaggle.json
 ```
 
 Download the Pokemon dataset:
-![b](beginning.png)
 
 ```bash
 kaggle datasets download -d hlrhegemony/pokemon-image-dataset
